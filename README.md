@@ -15,7 +15,7 @@
   - Время консультация с 9-18 преимущественно.
   - Так же в течении недели скидывайте вопросы в канал "вопросы" они будут разбираться на вебинаре в конце недели.
 
-## Домашние задания
+<!-- ## Домашние задания
   - ДЗ - 1.СSS **(13.09)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_1)
   - ДЗ - 2.СSS **(17.09)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_2)
   - ДЗ - 3.HTML + СSS **(20.09)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_3)
@@ -24,6 +24,6 @@
   - ДЗ - 6.JS **(4.10)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_6)
   - ДЗ - 7.JS **(8.10)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_7)
   - ДЗ - 8.JS **(11.10)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/homeWork_8)
-  - ДЗ - Финальный проект **(16.10)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/finalProject)
+  - ДЗ - Финальный проект **(16.10)** - Доступно [ссылка](https://github.com/2UP/theateam/tree/master/finalProject) -->
 
 
