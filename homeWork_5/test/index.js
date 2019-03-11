@@ -6,10 +6,18 @@ import {
     returnArgumentsArray,
     returnCounter,
     returnFirstArgument,
-    returnFnResult
+    returnFnResult,
+    forEach,
+    map,
+    reduce,
+    upperProps,
+    slice,
+    createProxy
 } from '../src/index';
 
-
+const nativeSlice = Array.prototype.slice;
+const nativeMap = Array.prototype.map;
+const nativeReduce = Array.prototype.reduce;
 
 describe('ДЗ 1 - функции', () => {
     describe('returnFirstArgument', () => {
@@ -114,23 +122,6 @@ describe('ДЗ 1 - функции', () => {
         });
     });
 });
-
-
-
-const nativeSlice = Array.prototype.slice;
-const nativeMap = Array.prototype.map;
-const nativeReduce = Array.prototype.reduce;
-
-import { assert } from 'chai';
-import { randomValue as random, randomNumberArray } from '../helper';
-import {
-    forEach,
-    map,
-    reduce,
-    upperProps,
-    slice,
-    createProxy
-} from '../src/index';
 
 describe('ДЗ 3 - объекты и массивы', () => {
     describe('forEach', () => {
